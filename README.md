@@ -2,9 +2,10 @@
 - 👀 I’m interested in ***Web Development*** & ***Software Engineer***
 - 🌱 I’m currently learning ***JavaScript & MERN Stack***
 - 💞️ I’m looking to collaborate on ***JS Talks***
-- 📫 How to reach me [<img src="https://user-images.githubusercontent.com/96857239/188796662-1be6c2df-03a2-401d-8608-aafdc0061ab6.gif" width="50" border-radius="50%" />](https://user-images.githubusercontent.com/96857239/188796662-1be6c2df-03a2-401d-8608-aafdc0061ab6.gif)
+- 📫 How to reach me 
+[<img src="https://user-images.githubusercontent.com/96857239/188796662-1be6c2df-03a2-401d-8608-aafdc0061ab6.gif" width="50" border-radius="50%" />](https://user-images.githubusercontent.com/96857239/188796662-1be6c2df-03a2-401d-8608-aafdc0061ab6.gif)
 
-[Twitter](https://www.twitter.com/Santossmmu/)
+[🐥](https://www.twitter.com/Santossmmu/)
 
 
 <!---
