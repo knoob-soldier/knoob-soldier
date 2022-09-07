@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 [<img src="https://user-images.githubusercontent.com/96857239/188796662-1be6c2df-03a2-401d-8608-aafdc0061ab6.gif" width="50" border-radius="50%" />](https://user-images.githubusercontent.com/96857239/188796662-1be6c2df-03a2-401d-8608-aafdc0061ab6.gif)
 
-[🐥](https://www.twitter.com/Santossmmu/)
+Click the bird >>--> [🐥](https://www.twitter.com/Santossmmu/)
 
 
 <!---
